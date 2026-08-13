@@ -23,7 +23,8 @@ NODES=(
     "https://github.com/cubiq/ComfyUI_essentials"
 )
 
-CHECKPOINT_MODELS=(
+CHECKPOINT_MODELS=(    
+    "https://huggingface.co/SiE69/Illoustrious_Checkpoint_Collection/resolve/main/waiNSFWIllustrious_v140.safetensors"
    
 )
 
